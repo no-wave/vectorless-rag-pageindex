@@ -113,13 +113,13 @@ Chapter 7 — 최종 비교와 Adaptive RAG
 
 ## E-Book 구매
 
-- Yes24: https://www.yes24.com/product/goods/190241997
-- 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013047392
-- 알라딘: https://aladin.kr/p/lS1cp
+- Yes24: 
+- 교보문고: 
+- 알라딘: 
 
 ## Github 코드: 
 
-https://github.com/no-wave/quantum-ai-qiskit
+https://github.com/no-wave/vectorless-rag-pageindex/
 
 
 
